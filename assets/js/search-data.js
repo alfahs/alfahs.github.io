@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-softwares",
           title: "Softwares",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A full description of deployed softwares will be added soon",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
