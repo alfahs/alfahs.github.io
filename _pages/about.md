@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a> CReSTIC Lab, Reims, France
+subtitle: <a href='#'>Affiliations</a> CReSTIC, Reims 51100, France
 
 profile:
   align: right
@@ -16,12 +16,13 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
+  title: "Upcoming Events"
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+ # enabled: true
+ # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+ # limit: 3 # leave blank to include all the blog posts
 ---
 
 # Short Bio
