@@ -405,16 +405,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-distinction-for-excellence-in-ai-teaching-hof-germany",
+          title: 'Distinction for Excellence in AI Teaching (Hof, Germany)',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-journées-du-centre-hpc-romeo-reims-france",
+          title: 'Journées du Centre HPC ROMEO (Reims, France)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-participation-to-the-ai-week-reims-france",
-          title: 'Participation to the AI Week Reims/France',
+            },},{id: "news-upcoming-participation-to-the-ai-week-reims-france",
+          title: 'Upcoming: Participation to the AI Week (Reims, France)',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
