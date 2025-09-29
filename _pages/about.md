@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> CReSTIC, Reims 51100, France
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: under-construction.jpg
   image_circular: true # crops the image to make it circular
   more_info: ""
 
@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 1 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
   title: "Upcoming Events"
 
 # latest_posts:

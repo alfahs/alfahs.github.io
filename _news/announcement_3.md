@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participation to the AI Week Reims/France 
+Upcoming: Participation to the AI Week (Reims, France)
