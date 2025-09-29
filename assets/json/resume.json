@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Alain FAHS",
-    "label": "Postdoctoral Researcher",
+    "label": "Computational R&D Scientist",
     "image": "image.jpeg",
     "email": "alain.fahs@hotmail.com",
     "phone": "+33 641 895 579",
     "url": "https://github.com/alfahs",
-    "summary": "Postdoctoral researcher specialized in HPC, machine learning, and computational physics, with experience in Python, CUDA, and molecular simulations.",
+    "summary": "Specialized in HPC, machine learning, and computational physics, with experience in Python and c++.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -162,43 +162,6 @@
       "fluency": "Fluent"
     }
   ],
-  "awards": [
-    {
-      "title": "Distinction for Excellence in Artificial Intelligence and HPC Teaching",
-      "date": "2025-01-01",
-      "awarder": "Hochschule Hof, University of Applied Sciences",
-      "summary": "",
-      "url": ""
-    },
-    {
-      "title": "Programming and Optimization on Heterogeneous Architecture",
-      "date": "2025-01-01",
-      "awarder": "Gray Scott School",
-      "summary": "",
-      "url": ""
-    },
-    {
-      "title": "Multi-GPU Programming Bootcamp",
-      "date": "2025-01-01",
-      "awarder": "NVIDIA and Others",
-      "summary": "",
-      "url": ""
-    },
-    {
-      "title": "Applied Machine Learning in Python",
-      "date": "2024-01-01",
-      "awarder": "University of Michigan (Coursera)",
-      "summary": "",
-      "url": ""
-    },
-    {
-      "title": "Deep Neural Networks with PyTorch",
-      "date": "2024-01-01",
-      "awarder": "IBM (Coursera)",
-      "summary": "",
-      "url": ""
-    }
-  ],
   "certificates": [
     {
       "name": "Applied Machine Learning in Python",
@@ -229,7 +192,7 @@
       "icon": ""
     },
     {
-      "name": "Distinction for Excellence in Artificial Intelligence and HPC Teaching",
+      "name": "Distinction for Excellence in Artificial Intelligence Teaching",
       "date": "2025-01-01",
       "issuer": "Hochschule Hof, University of Applied Sciences",
       "url": "",
