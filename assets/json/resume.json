@@ -30,10 +30,10 @@
   "work": [
     {
       "name": "CReSTIC Lab, University of Reims",
-      "position": "Postdoctoral Researcher",
-      "startDate": "2024-03-01",
+      "position": "HPC and IA Research Scientist",
+      "startDate": "2024-12-16",
       "endDate": "Present",
-      "summary": "Parallelized Python codes using CUDA and Slurm in HPC environments. Developed machine learning models for real-time fault and anomaly detection in automated systems. Integrated optimized Python models into production pipelines for inference.",
+      "summary": "",
       "highlights": [
         "Parallelized Python codes with CUDA and Slurm",
         "Machine learning for real-time fault detection",
@@ -45,9 +45,9 @@
     {
       "name": "Constellium and SIMaP Lab",
       "position": "Postdoctoral Researcher",
-      "startDate": "2022-03-01",
+      "startDate": "2022-03-1",
       "endDate": "2024-02-28",
-      "summary": "Used HPC tools (VASP, LAMMPS) to study aluminum alloys. Developed Python scripts to apply machine learning to liquid aluminum simulations. Post-processed simulation data using Bash scripting. Collaborated with industrial casting team.",
+      "summary": "",
       "highlights": [
         "HPC simulations with VASP and LAMMPS",
         "Applied machine learning to materials science",
@@ -61,7 +61,7 @@
       "position": "Ph.D. in Physics",
       "startDate": "2018-10-01",
       "endDate": "2022-02-28",
-      "summary": "Developed custom C++ and Fortran90 codes to study atomic vibrations in MOFs and spin crossover materials. Performed molecular dynamics simulations using LAMMPS on multi-CPU systems. Modeled thermodynamic and vibrational properties at the nanoscale.",
+      "summary": "",
       "highlights": [
         "Custom code development in C++ and Fortran90",
         "Molecular dynamics simulations with LAMMPS",
