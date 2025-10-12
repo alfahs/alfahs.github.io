@@ -394,8 +394,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-upcoming-participation-to-the-ai-week-reims-france",
-          title: 'Upcoming: Participation to the AI Week (Reims, France)',
+            },},{id: "news-currently-preparing-for-an-application-release",
+          title: 'Currently preparing for an application release!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
