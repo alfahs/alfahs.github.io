@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming: Participation to the AI Week (Reims, France)
+Currently preparing for an application release!
